@@ -1,4 +1,4 @@
-# Customer Support Chatbot — LoRA Fine-tuned Llama 3.2 3B
+# Domain-Adaptive Instruction Tuning Pipeline — LoRA Fine-tuned Llama 3.2 3B
 
 A domain-specific customer support chatbot built by fine-tuning **Meta's Llama 3.2 3B Instruct** model using **LoRA (Low-Rank Adaptation)** and **4-bit quantization**. The model is trained to answer customer FAQs in a concise, friendly, and professional tone.
 

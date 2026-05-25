@@ -191,7 +191,3 @@ Trainable parameters after LoRA: **~2M out of 3.2B total (~0.065%)**
 - [TRL SFTTrainer Documentation](https://huggingface.co/docs/trl/sft_trainer)
 
 ---
-
-## Author
-
-Built as part of a Gen AI learning journey, exploring parameter-efficient fine-tuning techniques for real-world NLP applications.
